@@ -1,0 +1,6 @@
+# successful upload
+
+
+- build a file and code it
+- make sure every change is commit
+- push the code to repo in github
