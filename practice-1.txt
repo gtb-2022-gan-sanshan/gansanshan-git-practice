@@ -1,0 +1,6 @@
+# Practice makes perfect
+
+Step1: knowing more about different types
+
+- Git
+- SVN
